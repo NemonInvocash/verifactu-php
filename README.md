@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # verifactuPHP
 **Librería y ejemplos prácticos para integrar la API Verifactu en proyectos PHP. Facilita la automatización de facturación y gestión de documentos electrónicos.**
 
@@ -87,3 +88,4 @@ Ivan Sole Martinez - sales@nemon.io
 ---
 
 **Palabras clave**: verifactu, verifactuPHP, API de Verifactu, biblioteca PHP, gestión de facturas electrónicas, validación de facturas, integración de API, cumplimiento normativo, facturación electrónica, instalación de paquetes PHP, contribuciones a proyectos open source.
+
