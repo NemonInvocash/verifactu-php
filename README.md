@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # verifactuPHP
 **Librería y ejemplos prácticos para integrar la API Verifactu en proyectos PHP. Facilita la automatización de facturación y gestión de documentos electrónicos.**
 
@@ -17,7 +16,7 @@ Para instalar verifactuPHP, puedes usar estos dos métodos:
 1. Clona el repositorio:
 
 ```
-git clone https://github.com/.....
+git clone https://github.com/NemonInvocash/verifactu-php
 ```
 
 2. Accede al directorio del proyecto e instala las dependencias:
@@ -34,7 +33,7 @@ composer install
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/...."
+        "url": "https://github.com/https://github.com/NemonInvocash/verifactu-php"
     }
 ]
 ```
