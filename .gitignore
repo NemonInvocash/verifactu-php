@@ -1,0 +1,6 @@
+# Ignorar el directorio vendor de Composer
+/vendor/
+
+# Ignorar archivos temporales
+*.log
+*.tmp
