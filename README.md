@@ -1,4 +1,5 @@
 # verifactuPHP
+**Librería y ejemplos prácticos para integrar la API Verifactu en proyectos PHP. Facilita la automatización de facturación y gestión de documentos electrónicos.**
 
 **verifactuPHP** es una **biblioteca PHP** que facilita la gestión de la **API de Verifactu** (https://verifactuapi.es/), desarrollada por **Invocash**. 
 Esta **API** ofrece una solución efectiva para la **gestión de facturas electrónicas** en España, cumpliendo con las **nuevas normativas fiscales**.

@@ -4,3 +4,4 @@
 # Ignorar archivos temporales
 *.log
 *.tmp
+*.phpunit.result.cache
