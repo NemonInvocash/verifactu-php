@@ -82,7 +82,7 @@ Este proyecto está bajo la Licencia MIT, lo que permite su uso y modificación 
 
 Para más información, contacta a:
 
-Ivan Sole Martinez - sales@nemon.io
+Ivan Sole Martinez - invocash@nemon.io
 
 
 ---
