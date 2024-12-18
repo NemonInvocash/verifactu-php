@@ -3,7 +3,7 @@
 
 **verifactuPHP** es una **biblioteca PHP** que facilita la gestión de la **API de Verifactu** (https://verifactuapi.es/), desarrollada por **Invocash**. 
 Esta **API** ofrece una solución efectiva para la **gestión de facturas electrónicas** en España, cumpliendo con las **nuevas normativas fiscales**.
-Es la opción ideal para **integrar la API de Verifactu** en tu **aplicación PHP**, especialmente antes de la entrada en vigor de la **nueva ley de facturación electrónica** (https://www.boe.es/boe/dias/2024/07/05/pdfs/BOE-A-2024-7445.pdf). 
+Es la opción ideal para **integrar la API de Verifactu** en tu **aplicación PHP**, especialmente antes de la entrada en vigor de la **nueva ley de facturación electrónica**. 
 Las recientes **leyes de facturación electrónica** exigen que los **software de facturación** sean capaces de **validar** y **emitir** facturas electrónicas utilizando **Verifactu**.
 Con **verifactuPHP**, puedes **validar** y **emitir** facturas electrónicas de manera sencilla en tu **aplicación PHP**. 
 Para más información, visita **https://www.nemon.io/invocash/verifactu-api/**.
