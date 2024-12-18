@@ -120,7 +120,7 @@ try {
         $dataDesglose = [
             'impuesto' => 1, // int/string -> Lista L1
             'claveRegimen' => 1, // int/string -> Lista L8A
-            'claveRegimenIGIC' => 1, // int/string -> Lista L8
+            'claveRegimenIGIC' => 1, // int/string -> Lista L8B
             'calificacionOperacion' => 1, // int/string -> Lista L9
             'operacionExenta' => 0, // int/string -> Lista L10
             'tipoImpositivo' => 21, // float

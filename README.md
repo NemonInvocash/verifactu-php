@@ -63,6 +63,7 @@ $verifactu = new ClienteVerifactu($email, $password);
 
 En el apartado "ejemplos" puedes ver cómo usar la API de Verifactu.
 ```
+Registrate en https://verifactuapi.es/ para obtener tus credenciales de acceso.
 
 ## Contribuciones
 
