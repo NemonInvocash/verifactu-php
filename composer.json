@@ -1,28 +1,36 @@
-{    
+{
     "name": "invocash/verifactu-php",
-    "description": "Una biblioteca PHP para interactuar con la API de Verifactu de Invocash.",
+    "description": "Cliente PHP para la API de Verifactu y TicketBAI (facturación electrónica AEAT), de Invocash.",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "verifactu",
+        "tbai",
+        "ticketbai",
+        "facturacion-electronica",
+        "factura-electronica",
+        "aeat",
+        "api",
+        "invocash"
+    ],
+    "homepage": "https://verifactuapi.es",
     "authors": [
         {
-            "name": "Lluis Martinez",
-            "email": "lluis.martinez@invocash.es"
+            "name": "INVOCASH SOLUTIONS SL",
+            "email": "support@invocash.es"
         }
     ],
+    "support": {
+        "issues": "https://github.com/NemonInvocash/verifactu-php/issues",
+        "source": "https://github.com/NemonInvocash/verifactu-php"
+    },
     "require": {
-        "php": "^7.4 || ^8.0",
-        "guzzlehttp/guzzle": "^7.0"
+        "php": "^8.1",
+        "ext-curl": "*"
     },
     "autoload": {
         "psr-4": {
-            "verifactuPHP\\": "src/",
-            "tests\\": "tests/"
+            "VerifactuPHP\\": "src/"
         }
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^9.5 || ^10.0"
-    },
-    "scripts": {
-        "test": "phpunit"
     }
 }
